@@ -23,7 +23,7 @@ Welcome to my repository of projects from Udacity's Nanodegree. Here you'll find
 
 ### Project 4: A/B Test a New Menu Launch
 - **Description:** In this project, I conducted an A/B analysis to assess the impact of a new menu launch in a restaurant chain.
-- **Link to Project:** [A/B Test a New Menu Launch](Link to Project 4 repository)
+- **Link to Project:** [A/B Test a New Menu Launch][(Link to Project 4 repository)](https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Project:%20Analyzing%20a%20Market%20Test.pdf)
 - **Keynotes:** Gained skills in A/B testing, statistical analysis, and drawing actionable insights from experiments.
 
 ### Project 5: Combining Predictive Techniques
