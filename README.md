@@ -28,7 +28,7 @@ Welcome to my repository of projects from Udacity's Nanodegree. Here you'll find
 
 ### Project 5: Combining Predictive Techniques
 - **Description:** In this project, I combined different predictive techniques to perform analysis and forecasting.
-- **Link to Project:** [Combining Predictive Techniques](Link to Project 5 repository)
+- **Link to Project:** [Combining Predictive Techniques][(Link to Project 5 repository)](https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Project:%20Predictive%20Analytics%20Capstone.pdf)https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Project:%20Predictive%20Analytics%20Capstone.pdf
 - **Keynotes:** Demonstrated the ability to integrate multiple predictive methods and use them to make forecasts.
 
 
