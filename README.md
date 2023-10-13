@@ -13,7 +13,7 @@ Welcome to my repository of projects from Udacity's Nanodegree. Here you'll find
 
 ### Project 2: Create an Analytical Dataset
 - **Description:** In this project, I performed data cleaning, formatting, and merging of various data sources to create an analytical dataset.
-- **Link to Project:** [Create an Analytical Dataset](Link to Project 2 repository)
+- **Link to Project:** [Create an Analytical Dataset]([Link to Project 2 repository](https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Project%202.1:%20Data%20Cleanup.pdf))
 - **Keynotes:** Gained experience in data wrangling, data formatting, and data integration techniques.
 
 ### Project 3: Predicting Default Risk
