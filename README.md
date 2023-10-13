@@ -18,7 +18,7 @@ Welcome to my repository of projects from Udacity's Nanodegree. Here you'll find
 
 ### Project 3: Predicting Default Risk
 - **Description:** In this project, I applied classification models to predict loan default risk.
-- **Link to Project:** [Predicting Default Risk](Link to Project 3 repository)
+- **Link to Project:** [Predicting Default Risk]([Link to Project 3 repository](https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Predicting_Default_Risk.pdf))
 - **Keynotes:** Learned how to build classification models, evaluate model performance, and assess credit risk.
 
 ### Project 4: A/B Test a New Menu Launch
