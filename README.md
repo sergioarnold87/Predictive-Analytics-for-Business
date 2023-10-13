@@ -8,7 +8,7 @@ Welcome to my repository of projects from Udacity's Nanodegree. Here you'll find
 
 ### Project 1: Predicting Catalog Demand
 - **Description:** In this project, I used data analysis techniques and linear regression to predict catalog demand for a retail company.
-- **Link to Project:** [Predicting Catalog Demand](Link to Project 1 repository)
+- **Link to Project:** [Predicting Catalog Demand]([Link to Project 1 repository](https://github.com/sergioarnold87/Predictive-Analytics-for-Business/blob/main/Predicting_diamonds_Sergio_Arnold.pdf))
 - **Keynotes:** Learned how to clean and prepare data, build regression models, and make demand forecasts.
 
 ### Project 2: Create an Analytical Dataset
